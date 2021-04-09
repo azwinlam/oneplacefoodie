@@ -1,5 +1,3 @@
-![alt text](https://github.com/azwinlam/oneplacefoodie/blob/main/OPFscreenshot.png "Banner")
-
 # One Place Foodie
 One Place to Find Where to Eat Next!
 * http://tinyurl.com/oneplacefoodie
