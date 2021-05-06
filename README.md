@@ -1,6 +1,6 @@
 # One Place Foodie
 One Place to Find Where to Eat Next!
-* http://tinyurl.com/oneplacefoodie
+* http://34.71.80.132:8502/
 * Streamlit server hosted on Google Cloud Platform VM. Should be running until June 30, 2021.
 
 ## Objective
